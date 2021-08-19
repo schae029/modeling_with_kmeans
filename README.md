@@ -1,5 +1,5 @@
 # modeling_with_kmeans
 
-Using k-means to improve upon supervised learning models.
+This set of notebooks shows how we can use k-means to improve upon supervised learning classification models.
 
-As of July 25, 2021 Parts 3 and 4 need to be revised.  Parts 1 and 2 have been condensed into Part1, version 9.
+As of August 19th, 2021 Part 3 (on grape varietals) needs to be revised.  Part 2 (California housing dataset) has one section that still must be completed.
